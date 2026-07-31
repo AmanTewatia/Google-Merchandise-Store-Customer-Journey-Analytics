@@ -1,1 +1,73 @@
+# Executive Dashboard Design
 
+## Dashboard Objective
+
+The dashboard is designed to provide business stakeholders with an executive view of customer journey performance, campaign effectiveness, conversion behaviour, and revenue generation within the Google Merchandise Store.
+
+The objective is to enable data-driven decision-making by monitoring key business metrics, identifying growth opportunities, and evaluating marketing performance.
+
+---
+
+# Target Audience
+
+- Executive Leadership
+- Marketing Managers
+- Product Managers
+- Business Analysts
+- Digital Analytics Team
+
+---
+
+# Dashboard Pages
+
+## Page 1 – Executive Overview
+
+Provides a high-level summary of overall business performance.
+
+KPIs
+
+- Total Revenue
+- Total Customer Journeys
+- Average Conversion Rate
+- Average Revenue per Journey
+- Average Touchpoints
+- Average Days to Conversion
+
+Visuals
+
+- KPI Cards
+- Revenue Trend
+- Revenue by Campaign
+- Conversion Rate Gauge
+
+---
+
+## Page 2 – Campaign Performance
+
+Analyses marketing campaign effectiveness.
+
+Visuals
+
+- Revenue by Campaign
+- Conversion Rate by Campaign
+- Campaign Ranking
+- Campaign Contribution
+
+---
+
+## Page 3 – Customer Journey Analysis
+
+Analyses customer behaviour before conversion.
+
+Visuals
+
+- Average Touchpoints
+- Journey Length
+- Days till Conversion
+- Customer Journey Distribution
+
+---
+
+## Page 4 – Executive Recommendations
+
+Summarises key findings and business recommendations for decision-makers.
